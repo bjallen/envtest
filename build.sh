@@ -1,0 +1,1 @@
+echo ${bamboo.repository.branch.name}
