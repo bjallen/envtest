@@ -1,1 +1,1 @@
-echo ${bamboo.repository.branch.name}
+echo $BAMBOO_BRANCH
