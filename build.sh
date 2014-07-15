@@ -1,3 +1,4 @@
+#!/bin/bash
 echo `ruby -v`
 
 if [[ -s "$HOME/.rvm/scripts/rvm" ]]
