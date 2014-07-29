@@ -10,4 +10,5 @@ fi
  
 echo `ruby -v`
 
-echo $BAMBOO_BRANCH
+#echo $BAMBOO_BRANCH
+echo $BAMBOO_BUILD_NUMBER
